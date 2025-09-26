@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuge Xu</h1>
-<h3 align="center">Master’s Student @ Cornell Tech | Passionate about AI for Healthcare & Medical Image Analysis 🩺🧠</h3>
+<h3 align="center">Master’s Student @ Cornell Tech | Passionate about AI for Healthcare & Medical Image Analysis 🩺</h3>
 
 ---
 
