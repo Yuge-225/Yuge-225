@@ -95,7 +95,7 @@
 </table>
 
 ---
-### ✨ Let's build AI that transforms healthcare! ✨
+### ✨ Let's build AI that transforms the world! ✨
 
 <p align="center">
   <img src="https://alumni.cornell.edu/cornellians/wp-content/uploads/sites/2/2025/02/220504_17-55-28_MV3_2287-Edit-photo-by-Max-Touhey-5-B.jpg" alt="Cornell Tech Campus" width="500"/>
